@@ -1,14 +1,23 @@
 body{
 	margin: 0;
+	margin-top: 0;
+	font-family: helvetica, arial, sans-serif;
 }
 
 header{
 	background-color: #d14635;
 	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+h1,h2,h3{
+	font-family: 'Bitter', serif;
 }
 
 header h1{
 	color: White;
+	font-size: 50px;
+
 }
 
 header img{
